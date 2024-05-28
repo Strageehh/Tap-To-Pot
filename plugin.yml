@@ -1,0 +1,5 @@
+name: Custom Potions
+author: Strageehh (VuzarMC Team)
+version: 0.0.1
+api: 5.0.0
+main: potions\MainListener
